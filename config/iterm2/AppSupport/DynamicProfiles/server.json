@@ -1,0 +1,26 @@
+{
+  "Profiles": [
+    {
+      "Name": "Server",
+      "Guid": "SERVER-PROFILE-001",
+      "Background Color": {
+        "Red Component": 0.0392156862745098,
+        "Green Component": 0.0784313725490196,
+        "Blue Component": 0.0392156862745098
+      },
+      "Foreground Color": {
+        "Red Component": 0.0,
+        "Green Component": 1.0,
+        "Blue Component": 0.0
+      },
+      "Font": {
+        "Normal Font": "MesloLGMNerdFont-Regular 13"
+      },
+      "Use Transparency": true,
+      "Transparency": 0.05,
+      "Badge Text": "🖥️ SERVER",
+      "Use Badge": true,
+      "Tags": ["server", "ssh", "remote"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Profiles": [
+    {
+      "Name": "Debug",
+      "Guid": "DEBUG-PROFILE-001",
+      "Background Color": {
+        "Red Component": 0.1,
+        "Green Component": 0.0,
+        "Blue Component": 0.0
+      },
+      "Foreground Color": {
+        "Red Component": 1.0,
+        "Green Component": 0.8,
+        "Blue Component": 0.8
+      },
+      "Font": {
+        "Normal Font": "HackNerdFont-Regular 12"
+      },
+      "Scrollback Lines": 50000,
+      "Badge Text": "🐛 DEBUG",
+      "Use Badge": true,
+      "Tags": ["debug", "logs", "troubleshooting"]
+    }
+  ]
+}

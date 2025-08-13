@@ -1,0 +1,118 @@
+{
+  "Profiles": [
+    {
+      "Name": "Development",
+      "Guid": "DEV-PROFILE-001",
+      "Ansi 0 Color": {
+        "Red Component": 0.1176470588235294,
+        "Green Component": 0.1254901960784314,
+        "Blue Component": 0.1529411764705882
+      },
+      "Ansi 1 Color": {
+        "Red Component": 0.8627450980392157,
+        "Green Component": 0.19607843137254902,
+        "Blue Component": 0.1843137254901961
+      },
+      "Ansi 2 Color": {
+        "Red Component": 0.5411764705882353,
+        "Green Component": 0.8823529411764706,
+        "Blue Component": 0.20392156862745098
+      },
+      "Ansi 3 Color": {
+        "Red Component": 0.9803921568627451,
+        "Green Component": 0.796078431372549,
+        "Blue Component": 0.19607843137254902
+      },
+      "Ansi 4 Color": {
+        "Red Component": 0.25882352941176473,
+        "Green Component": 0.5411764705882353,
+        "Blue Component": 1.0
+      },
+      "Ansi 5 Color": {
+        "Red Component": 0.8274509803921568,
+        "Green Component": 0.21176470588235294,
+        "Blue Component": 0.5098039215686274
+      },
+      "Ansi 6 Color": {
+        "Red Component": 0.23137254901960785,
+        "Green Component": 0.8196078431372549,
+        "Blue Component": 0.7686274509803922
+      },
+      "Ansi 7 Color": {
+        "Red Component": 0.9333333333333333,
+        "Green Component": 0.9411764705882353,
+        "Blue Component": 0.9568627450980393
+      },
+      "Background Color": {
+        "Red Component": 0.09019607843137255,
+        "Green Component": 0.09803921568627451,
+        "Blue Component": 0.12156862745098039
+      },
+      "Foreground Color": {
+        "Red Component": 0.8666666666666667,
+        "Green Component": 0.8862745098039215,
+        "Blue Component": 0.9137254901960784
+      },
+      "Cursor Color": {
+        "Red Component": 0.25882352941176473,
+        "Green Component": 0.5411764705882353,
+        "Blue Component": 1.0
+      },
+      "Selection Color": {
+        "Red Component": 0.25882352941176473,
+        "Green Component": 0.5411764705882353,
+        "Blue Component": 1.0,
+        "Alpha Component": 0.3
+      },
+      "Font": {
+        "Normal Font": "JetBrainsMonoNerdFont-Regular 14",
+        "Bold Font": "JetBrainsMonoNerdFont-Bold 14"
+      },
+      "Window Type": 0,
+      "Use Cursor Guide": true,
+      "Cursor Boost": 0.25,
+      "Blinking Cursor": true,
+      "Use Bold Font": true,
+      "Silence Bell": true,
+      "Unlimited Scrollback": true,
+      "Scrollback Lines": 10000,
+      "Use Transparency": true,
+      "Transparency": 0.1,
+      "Use Blur": true,
+      "Blur": true,
+      "Blur Radius": 2.0,
+      "Use Background Image": false,
+      "Use Bright Bold": true,
+      "Brighten Bold Text": true,
+      "Draw Powerline Glyphs": true,
+      "ASCII Ligatures": true,
+      "Non-ASCII Ligatures": true,
+      "Use HFS Plus Mapping": false,
+      "Unicode Version": 9,
+      "Ambiguous Double Width": false,
+      "Draw Bold Text In Bold Font": true,
+      "Terminal Type": "xterm-256color",
+      "Scrollwheel Send Arrow Keys When In Alternate Screen Mode": true,
+      "Mouse Reporting": true,
+      "Allow Title Reporting": false,
+      "Disable Window Resizing": false,
+      "Sync Title": false,
+      "Close Sessions On End": true,
+      "Non Ascii Font": "JetBrainsMonoNerdFont-Regular 14",
+      "Use Non ASCII Font": false,
+      "Right Option Key Sends": 0,
+      "Left Option Key Sends": 0,
+      "Application Keypad Allowed": false,
+      "BM Growl": true,
+      "Send Bell Alert": false,
+      "Send Idle Alert": false,
+      "Flashing Bell": false,
+      "Visual Bell": true,
+      "Prompt Before Closing 2": false,
+      "Use Custom Window Title": false,
+      "Custom Directory": "No",
+      "Character Encoding": 4,
+      "Tags": ["development", "coding", "main"]
+    }
+  ]
+}
